@@ -1,10 +1,10 @@
-# Project 7: AIOps — AI-Powered Automated Log Anomaly Detection & Incident Intelligence on AWS EC2
+# Project AI-Powered Automated Log Anomaly Detection & Incident Intelligence on AWS EC2
 
 [![Module: AIOps & Python Automation](https://img.shields.io/badge/Module-AIOps_%26_Python_Automation-8A2BE2?style=for-the-badge&logo=python&logoColor=white)](README.md)
 [![Cloud: AWS EC2](https://img.shields.io/badge/Cloud-AWS_EC2_Ubuntu-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](README.md)
 [![ML: Scikit--Learn](https://img.shields.io/badge/ML_Engine-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](README.md)
 [![Analytics: Pandas & NumPy](https://img.shields.io/badge/Data-Pandas_%26_NumPy-150458?style=for-the-badge&logo=pandas&logoColor=white)](README.md)
-[![Batch: DevOps-44](https://img.shields.io/badge/Batch-DevOps--44-blueviolet?style=for-the-badge)](README.md)
+
 
 ---
 > [🏠 Master Learning Index](README.md) | [📖 All Summaries](README.md)
@@ -26,7 +26,7 @@
 12. [Step 9: Downloading & Inspecting Anomaly Reports (CSV & PNG)](#step-9-downloading--inspecting-anomaly-reports-csv--png)
 13. [Step 10: Real-World Troubleshooting & Error Resolution Matrix](#step-10-real-world-troubleshooting--error-resolution-matrix)
 14. [Step 11: Infrastructure Cleanup & Cost Optimization](#step-11-infrastructure-cleanup--cost-optimization)
-15. [Step 12: Professional Resume Points & Interview Highlights](#step-12-professional-resume-points--interview-highlights)
+
 
 ---
 
